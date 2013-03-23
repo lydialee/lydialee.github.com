@@ -1,0 +1,34 @@
+body,div,h1,h2,h3,h4,h5,h6,ul,li,form,img,a,span{
+	font:normal 15px/1.75 "TIBch", "ClassicGrotesqueW01-Rg", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+	letter-spacing: 1px;
+}
+/*banner*/
+.banner-name{
+	font-size:32px;
+}
+.banner-douban{
+	font-size:18px;
+}
+.banner-link p{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.title{
+	font-size:24px;
+}
+#education p{
+	line-height: 25px;
+}
+#aboutMe p{
+	line-height: 25px;
+}
+#prizes p{
+	line-height: 25px;
+}
+
+
+
+
+
+

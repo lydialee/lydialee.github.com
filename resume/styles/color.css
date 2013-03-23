@@ -1,0 +1,31 @@
+body,div,h1,h2,h3,h4,h5,h6,ul,li,form,img,a{
+	color:#5c5c5c;
+	text-shadow:0 1px white;
+}
+.banner-gray{
+	background-color: rgba(0,0,0, .5);
+	border-top:1px solid rgba(0,0,0, .2);
+	border-bottom:1px solid rgba(0,0,0, .2);
+}
+.banner-gray p{
+	color:#fff;
+	text-shadow:2px 2px 1px rgba(0,0,0,.2);
+}
+.banner-gray hr{
+	margin-top:0px;
+	margin-left:-10px;
+	height:1px;
+	border:0;
+	border-top:1px solid rgba(255,255,255, .3);
+}
+.title{
+	color:#669999;
+}
+#container{
+	background-image: url(../images/noise.png);
+	background-color :hsl(24, 20%, 95%);
+}
+#experience a{
+	text-decoration: underline;
+}
+

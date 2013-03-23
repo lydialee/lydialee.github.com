@@ -1,0 +1,209 @@
+body,div,h1,h2,h3,h4,h5,h6,ul,li,form,img{margin:0;padding:0;border:0;}
+ul,li{list-style:none;}
+div,p,li,ul{margin:0;line-height:100%;word-wrap:break-word;word-break:break-all;overflow:hidden;}
+a{text-decoration:none;}
+
+body{
+	background:#ffc;
+}
+#blur{
+	z-index: -99999999999999999999;
+	min-height: 100%;
+	min-width: 100%;
+	position:fixed;
+	top:0;
+	left:0;
+}
+.wrapper{
+	width:900px;
+	margin:70px auto;
+}
+
+/*header*/
+#header{
+	position:relative;
+	z-index: 99;
+}
+.banner{
+	width:900px;
+	height:300px;
+} 
+.photo{
+	position:absolute;
+	top:105px;
+	left:40px;
+	z-index:99;
+}
+.banner-gray{
+	position:absolute;
+	width:900px;
+	height:110px;
+	top:189px;
+	box-shadow: 0px 3px 5px rgba(102,102,102,.2);
+}
+.banner-gray img{
+	margin-top:0px;
+	margin-left:205px;
+}
+.banner-name{
+	margin-top:20px;
+	margin-left:215px;
+}
+.banner-git{
+	margin-top:13px;
+	margin-left:214px;
+	text-decoration: underline;
+}
+.banner-douban{
+	text-decoration: underline;
+}
+.banner-link{
+	margin-top:-65px;
+	margin-left:700px;
+}
+
+/*container*/
+#container{
+	position:relative;
+	top:-20px;
+	width:900px;
+	height:950px;
+	border-radius:15px;
+}
+
+/*education*/
+#education{
+	position:absolute;
+	top:35px;
+	left:55px;
+	width:250px;
+}
+
+#education .title{
+	padding: 15px 0;
+}
+
+/*sills*/
+#skills{
+	position:absolute;
+	top:260px;
+	left:55px;
+	width:250px;
+}
+#skills img{
+	margin-left:-15px;
+}
+
+/*aboutme*/
+#aboutMe{
+	position:absolute;
+	top:750px;
+	left:55px;
+	width:250px;
+}
+
+/*experience*/
+#experience{
+	position:absolute;
+	top:50px;
+	left:323px;
+}
+#experience .title{
+	margin-bottom:15px;
+}
+#experience ul{
+	margin-left:55px;
+}
+.timeline{
+	position:absolute;
+	top:100px;
+	left:343px;
+	display:inline;
+	background-color:#EDEDED;
+	width:1px;
+	height:615px;
+	border:1px solid #E3E3E3;
+}
+.timeline-gray{
+	width:45px;
+	height:24px;
+	padding-top:0px;
+	text-shadow:1px 1px 1px rgba(0,0,0, .2);
+	border-radius:5px;
+	background-color:#CEC9C3;
+	color:#fff;
+	text-align:center;
+	vertical-align:middle;
+	z-index:99999;
+}
+hr{
+	margin-top:-15px;
+	margin-left:45px;
+	height:1px;
+	border:0;
+	border-top:1px solid rgba(0,0,0, .1);
+}
+#experience span{
+	float:right;
+	width:340px;
+	margin-top:-55px;
+	margin-left:25px;
+}
+#experience li{
+	margin:20px 0;
+}
+
+/*prizes*/
+#prizes{
+	position:absolute;
+	top:750px;
+	left:323px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
